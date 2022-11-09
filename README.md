@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy DiegoGustavo</h1><h3 align="center">Un apasionado desarrollador frontend de Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoncio12&label=Profile%20views&color=0e75b6&style=flat" alt="diegoncio12" /> </p>
+<h1 align="center">Hola 👋, soy Diego Gustavo</h1><h3 align="center">Un apasionado desarrollador frontend de Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoncio12&label=Profile%20views&color=0e75b6&style=flat" alt="diegoncio12" /> </p>
 
 
 
@@ -9,7 +9,7 @@
 
 <
 
-h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 <a href="https://fb.com/https://www.facebook.com/diegoguzs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/diegoguzs/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rip.yego/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rip.yego/" height="30" width="40" /></a>
